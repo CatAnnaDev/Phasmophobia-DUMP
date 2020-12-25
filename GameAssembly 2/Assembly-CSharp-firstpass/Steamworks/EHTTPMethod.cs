@@ -1,0 +1,24 @@
+﻿/*
+ * Generated code file by Il2CppInspector - http://www.djkaty.com - https://github.com/djkaty
+ */
+
+using System;
+using System.Diagnostics;
+using System.Runtime.CompilerServices;
+
+// Image 62: Assembly-CSharp-firstpass.dll - Assembly: Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null - Types 5815-6837
+
+namespace Steamworks
+{
+	public enum EHTTPMethod // TypeDefIndex: 6428
+	{
+		k_EHTTPMethodInvalid = 0,
+		k_EHTTPMethodGET = 1,
+		k_EHTTPMethodHEAD = 2,
+		k_EHTTPMethodPOST = 3,
+		k_EHTTPMethodPUT = 4,
+		k_EHTTPMethodDELETE = 5,
+		k_EHTTPMethodOPTIONS = 6,
+		k_EHTTPMethodPATCH = 7
+	}
+}

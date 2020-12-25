@@ -1,0 +1,51 @@
+﻿/*
+ * Generated code file by Il2CppInspector - http://www.djkaty.com - https://github.com/djkaty
+ */
+
+using System;
+using System.Diagnostics;
+using System.Runtime.CompilerServices;
+using UnityEngine;
+
+// Image 63: Assembly-CSharp.dll - Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null - Types 6838-8616
+
+namespace VRTK
+{
+	public abstract class VRTK_ObjectFollow : MonoBehaviour // TypeDefIndex: 7707
+	{
+		// Fields
+		public GameObject u091Cu0925u0923u0923u091Bu091Fu091Fu091Fu091Au0927u0924; // 0x18
+		public GameObject u0921u0921u091Cu091Bu0926u0923u0925u0922u0922u0922u0924; // 0x20
+		public bool u091Bu0925u0920u091Au0929u091Du0923u0923u0921u0929u091B; // 0x28
+		public bool u0921u091Fu0924u0928u091Eu0927u0924u091Au0925u091Eu091F; // 0x29
+		public float u0925u091Fu0920u091Au091Eu091Fu0927u091Du0920u091Bu0920; // 0x2C
+		public bool u091Au091Fu091Au0923u0926u0924u0924u0928u091Bu0929u0926; // 0x3C
+		public bool u0927u091Eu091Cu0920u0928u0928u0920u0928u091Du091Cu091C; // 0x3D
+		public float u0924u091Du0920u0927u0928u091Fu091Du0924u091Cu091Eu091B; // 0x40
+		public bool u091Fu0929u091Fu091Du0927u0925u0923u091Du091Au091Du091B; // 0x54
+		public bool u091Du0920u0923u091Eu0922u091Cu0925u091Eu091Cu091Au0927; // 0x55
+		public float u0928u091Au0929u0923u0921u0925u0928u091Au0923u0921u091A; // 0x58
+	
+		// Properties
+		public Vector3 तछणथटटतठदथऩ { get; private set; } // 0x000000018131DF90-0x000000018131DFB0 0x000000018131DBD0-0x000000018131DBE0
+		public Quaternion थझञझथऩझडनटत { get; private set; } // 0x000000018131DFB0-0x000000018131DFC0 0x000000018131DF40-0x000000018131DF50
+		public Vector3 थझठदचछनथततथ { get; private set; } // 0x000000018131DFC0-0x000000018131DFE0 0x000000018131DF50-0x000000018131DF60
+	
+		// Constructors
+		protected VRTK_ObjectFollow() {} // 0x000000018131DF60-0x000000018131DF90
+	
+		// Methods
+		public virtual void Follow() {} // 0x000000018131D800-0x000000018131D8B0
+		protected virtual void OnEnable() {} // 0x000000018131D8B0-0x000000018131D940
+		protected virtual void OnValidate() {} // 0x000000018131D940-0x000000018131D9E0
+		protected abstract Vector3 u0921u0925u091Au091Bu0927u0920u0927u0929u091Du0924u0922();
+		protected abstract void u0920u0921u091Au091Fu091Au091Au091Du0923u0928u0921u0925(Vector3 u091Au0923u0926u0927u091Au091Eu091Du091Du0929u0928u0929);
+		protected abstract Quaternion u091Du091Au091Du0922u0921u091Eu0921u0920u0921u0925u0929();
+		protected abstract void u0926u0922u0929u091Eu0928u091Fu0929u091Fu091Eu0927u091E(Quaternion u0926u091Cu091Cu091Cu091Eu0928u0921u0921u0922u091Bu091E);
+		protected virtual Vector3 u0926u091Cu0929u0928u091Bu0923u091Fu091Du0923u0929u091D() => default; // 0x000000018131DB80-0x000000018131DBD0
+		protected virtual void u0921u091Cu091Bu091Au091Bu0927u091Du0928u0928u0921u0921(Vector3 u091Du0928u0920u0927u091Du0922u0921u0929u091Cu0925u0923) {} // 0x000000018131D9E0-0x000000018131DA30
+		protected virtual void u0927u091Eu091Cu091Cu091Du091Eu091Au0926u0929u091Bu0921() {} // 0x000000018131DD90-0x000000018131DF40
+		protected virtual void u0921u0922u0923u091Bu091Eu0922u091Eu0926u0924u0926u091A() {} // 0x000000018131DA30-0x000000018131DB80
+		protected virtual void u0926u0925u091Fu091Fu091Eu0922u0921u0927u0920u091Du0922() {} // 0x000000018131DBE0-0x000000018131DD90
+	}
+}

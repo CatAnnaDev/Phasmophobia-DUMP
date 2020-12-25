@@ -1,0 +1,22 @@
+﻿/*
+ * Generated code file by Il2CppInspector - http://www.djkaty.com - https://github.com/djkaty
+ */
+
+using System;
+using System.Diagnostics;
+using System.Runtime.CompilerServices;
+using UnityEngine;
+
+// Image 63: Assembly-CSharp.dll - Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null - Types 6838-8616
+
+public static class u0921u0921u0921u091Bu0928u0923u0920u0927u091Eu0923u091C // TypeDefIndex: 8465
+{
+	// Properties
+	public static bool जथधधनडचठऩठझ { get; } // 0x0000000180832690-0x00000001808326C0 
+
+	// Methods
+	public static int u0927u0923u0929u091Bu091Cu0929u0921u0925u0922u0921u091A(int u0929u0926u091Cu091Du0922u0921u0928u0928u0929u0925u091F, int u0929u0927u091Eu0926u0926u0926u0921u091Bu0922u0924u091B, int u091Du091Cu0925u0926u0924u091Cu0920u0921u0925u0928u091C) => default; // 0x0000000180D3B740-0x0000000180D3B760
+	public static bool u0928u091Fu091Au0922u0925u0926u091Eu0921u091Fu0929u091B(bool u091Du091Du0923u0924u0925u0923u091Eu091Cu0924u0921u0928, bool u091Bu091Cu0925u0927u091Fu0924u091Fu0923u0927u091Au091A, bool u091Au0920u091Du0927u0924u0924u0922u0922u0925u0925u091C, MonoBehaviour u091Eu0920u0924u0924u0929u0924u0920u091Bu0924u0926u0928) => default; // 0x0000000180D3B760-0x0000000180D3BB00
+	public static bool u091Fu0924u0923u0927u091Eu0929u0925u0923u0920u0927u0922(Shader u091Bu0923u0921u0927u0922u091Eu091Bu091Bu091Du0925u0922, MonoBehaviour u091Eu0920u0924u0924u0929u0924u0920u091Bu0924u0926u0928) => default; // 0x0000000180D3B530-0x0000000180D3B740
+}
+
